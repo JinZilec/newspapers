@@ -3,6 +3,9 @@ QA Automation Test Challenge
 
 # Setup
 
+Install an IDE of your choice.
+Eg. Eclipse , Intellij
+
 Install Java
 https://www.guru99.com/install-java.html
 
