@@ -7,15 +7,13 @@ https://www.atlassian.com/git/tutorials/install-git
 
 ![image](https://user-images.githubusercontent.com/110485304/182438544-a609a993-9ee5-4224-8f00-c62d002b9f46.png)
 
-Clone the project
-
-![image](https://user-images.githubusercontent.com/110485304/182438737-be11671f-8580-4145-8b36-a388d7bd28b9.png)
-
-
 type below commands how initialize Git commands in any project root of your choice
 ![image](https://user-images.githubusercontent.com/110485304/182438193-ca006b63-733a-4e9e-80c9-66415f43c911.png)
 
 
+Clone the project
+
+![image](https://user-images.githubusercontent.com/110485304/182438737-be11671f-8580-4145-8b36-a388d7bd28b9.png)
 
 # Setup
 
