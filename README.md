@@ -23,7 +23,7 @@ This will Run All your test declared on your feature file
 ![image](https://user-images.githubusercontent.com/110485304/182430945-ef9c857d-b5fa-481d-9319-1958db8d26b9.png)
 
 This will Run specific Test on your choice depending on your parameters. (@TAGS)
-![image](https://user-images.githubusercontent.com/110485304/182432565-b7352877-0e9c-46a5-8b8d-04e632621575.png)
+![image](https://user-images.githubusercontent.com/110485304/182432991-c36c04af-7033-4549-914a-773da32e2693.png)
 
 
 # How to Generate Reports
