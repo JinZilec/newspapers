@@ -23,10 +23,12 @@ https://www.programsbuzz.com/article/how-install-allure-windows
 # How to Run Test
 Using Maven, from root directory of your project. Run this command 
 This will Run All your test declared on your feature file
-![image](https://user-images.githubusercontent.com/110485304/182430945-ef9c857d-b5fa-481d-9319-1958db8d26b9.png)
+![image](https://user-images.githubusercontent.com/110485304/182435786-00c9843d-7d7c-4ea1-8a22-bff0eb54bce5.png)
+
 
 This will Run specific Test on your choice depending on your parameters. (@TAGS)
-![image](https://user-images.githubusercontent.com/110485304/182432991-c36c04af-7033-4549-914a-773da32e2693.png)
+![image](https://user-images.githubusercontent.com/110485304/182435898-454de843-4cc4-48e6-b7d2-dad5a1561865.png)
+
 
 
 # How to Generate Reports
