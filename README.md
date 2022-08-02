@@ -35,9 +35,11 @@ This will Run specific Test on your choice depending on your parameters. (@TAGS)
 We could generate reports in 2 Ways
 
 1st Option: By Using allure we can generate reports in our local machine
+
 ![image](https://user-images.githubusercontent.com/110485304/182436070-09f754fd-2700-4247-b9e1-ed671deff98a.png)
 
 It will generate a file on your root directory. Open the hmtl file in any browser of your choice.
+
 ![image](https://user-images.githubusercontent.com/110485304/182436229-e57a637c-96ad-4e6b-a34c-f50a02c20cd4.png)
 
 ![image](https://user-images.githubusercontent.com/110485304/182432334-26ffb609-2a43-4d74-9ca1-0b4c19e9f234.png)
