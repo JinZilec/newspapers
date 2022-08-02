@@ -5,13 +5,16 @@ QA Automation Test Challenge
 
 Install Java
 https://www.guru99.com/install-java.html
+
 ![image](https://user-images.githubusercontent.com/110485304/182429153-0c15dec3-5252-4981-ad9b-5ef89f9b60d9.png)
 
 Install Maven
 https://maven.apache.org/install.html
+
 ![image](https://user-images.githubusercontent.com/110485304/182429265-4ca060dd-8434-4f5a-8c94-d208a0c7a45b.png)
 
 Install Allure Reporting
+
 https://www.programsbuzz.com/article/how-install-allure-windows
 
 # How to Run Test
