@@ -15,6 +15,8 @@ Clone the project
 
 ![image](https://user-images.githubusercontent.com/110485304/182438737-be11671f-8580-4145-8b36-a388d7bd28b9.png)
 
+You could also just download this project as zip.
+
 # Setup
 
 Install an IDE of your choice. (If you want to run the test using junit)
